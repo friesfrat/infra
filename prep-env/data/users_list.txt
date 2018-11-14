@@ -1,0 +1,11 @@
+id,firstname,lastname,email,password,phonenumber,role
+1,John,Gilbert,jgilbert@gmail.com,secret,0729921123,4
+2,Madeline,Flores,mflores@gmail.com,s3cret,0928123512,4
+3,Sonny,Barnes,sbarnes@gmail.com,s3cr3t,0213153221,3
+4,Rick,Page,rpage@gmail.com,s3creet,1231512512,1
+5,Jason,Craft,jcraft@gmail.com,kastor,1241598212,1
+6,Lucina,Matthews,lmatthews@gmail.com,lsa123,1235219312,2
+7,Audrey,Fitzpatrick,afitzpatrick@gmail.com,sad123,4587628912,1
+8,Marty,Thornton,mthornton@gmail.com,s22ed22,2486513795,3
+9,Charels,Hernandez,chernandez@gmail.com,jasbed123,7319486251,1
+10,Eric,Carson,ecarson@gmail.com,ecsady123,5826419735,2
